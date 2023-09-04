@@ -32,7 +32,7 @@ export default function Modal() {
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia totam voluptas rem, vel deleniti incidunt corrupti fugit alias? Temporibus accusamus reprehenderit quam et perferendis numquam, odit dignissimos saepe vel perspiciatis.
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia totam voluptas rem, vel deleniti incidunt corrupti fugit alias? Temporibus accusamus reprehenderit quam et perferendis numquam, odit dignissimos saepe vel perspiciatis.
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia totam voluptas rem, vel deleniti incidunt corrupti fugit alias? Temporibus accusamus reprehenderit quam et perferendis numquam, odit dignissimos saepe vel perspiciatis.
-
+                        added text
                     </p>
 
                 </div>
